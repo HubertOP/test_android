@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Aplikacja</string>
+    <string name="clickButton">Usun</string>
+    <string name="sumButton">Suma</string>
+    <string name="textSum"></string>
+    <string name="firstNumber">"Podaj pierwsza liczbe"</string>
+    <string name="lastNumber">"Podaj druga liczbe"</string>
+</resources>
